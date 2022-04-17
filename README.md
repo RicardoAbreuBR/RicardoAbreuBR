@@ -1,5 +1,5 @@
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/RicardoAbreuBR/RicardoAbreuBR/blob/main/code.gif" width="500" height="320" />
 
 - 👋 Hi, I’m @RicardoAbreuBR
 - 👀 I’m interested in ...Data Science, Machine Learning
